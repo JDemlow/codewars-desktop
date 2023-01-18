@@ -11,10 +11,13 @@ function encode(str) {
     chars[i] = String.fromCharCode(chars[i].charCodeAt() + 1);
   return chars.join("");
 }
+
 let pass = "abcde";
 pass = encode(pass);
 console.log(encode(pass));
 console.log(decode("abcde"));
+
+// Challenge
 
 function topSecret(file) {
   let chars = file.split("");
