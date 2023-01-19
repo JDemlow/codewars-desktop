@@ -61,6 +61,9 @@
 //loopBreakConntinue
 //https://www.codewars.com/kata/5721c189cdd71194c1000b9b/solutions
 
+//mangoes
+//https://www.codewars.com/kata/57a77726bb9944d000000b06/solutions/javascript
+
 //messiGoalsFunction
 //https://www.codewars.com/kata/55f73be6e12baaa5900000d4/solutions/javascript
 
