@@ -106,6 +106,9 @@
 //reverseDigits
 // https://www.codewars.com/kata/5583090cbe83f4fd8c000051/solutions/javascript
 
+//reversedWords
+//https://www.codewars.com/kata/51c8991dee245d7ddf00000e/solutions/javascript
+
 //reverseString
 
 //smallestInteger
