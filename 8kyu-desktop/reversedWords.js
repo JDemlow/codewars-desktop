@@ -16,3 +16,11 @@ console.log(reverseWords("Hello World!"));
 //The words should be reversed, not the individual letters
 
 //https://www.codewars.com/kata/51c8991dee245d7ddf00000e/solutions/javascript
+
+let movies = ["TMNT", "Ace Ventura", "Iron Man"];
+
+let showMovies = movies.forEach((movie) => {
+  return movie;
+});
+
+console.log(showMovies);
