@@ -114,6 +114,9 @@
 //smallestInteger
 //https://www.codewars.com/kata/55a2d7ebe362935a210000b2/solutions/javascript
 
+//squareNSum
+//https://www.codewars.com/kata/515e271a311df0350d00000f/solutions/javascript
+
 //stringObject
 //https://www.codewars.com/kata/57274562c8dcebe77e001012/solutions
 
