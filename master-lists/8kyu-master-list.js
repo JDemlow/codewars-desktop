@@ -129,6 +129,9 @@
 //strings
 //https://www.codewars.com/kata/571edea4b625edcb51000d8e/solutions/javascript
 
+//stringTemplate
+//https://www.codewars.com/kata/55c90cad4b0fe31a7200001f/solutions/javascript
+
 //sumLowestIntegers
 // https://www.codewars.com/kata/558fc85d8fd1938afb000014/solutions/javascript
 
