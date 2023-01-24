@@ -143,6 +143,9 @@
 //superBall
 ////https://www.codewars.com/kata/53f0f358b9cb376eca001079/solutions/javascript
 
+//switchCases
+//https://www.codewars.com/kata/55c933c115a8c426ac000082/solutions/javascript
+
 //https://www.codewars.com/kata/572059afc2f4612825000d8a/solutions/javascript
 
 //ternary
