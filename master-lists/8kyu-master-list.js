@@ -151,4 +151,7 @@
 //twiceAsOld
 // https://www.codewars.com/kata/5b853229cfde412a470000d0/solutions/javascript
 
+//unfinishedLoop
+//https://www.codewars.com/kata/55c28f7304e3eaebef0000da/solutions/javascript
+
 //wordSmash
