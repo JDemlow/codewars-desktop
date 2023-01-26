@@ -26,3 +26,5 @@ function evalObject(value) {
 console.log(evalObject({ a: 1, b: 1, operation: "/" }));
 
 //https://www.codewars.com/kata/55c933c115a8c426ac000082/solutions/javascript
+
+

@@ -16,5 +16,8 @@
 //reverseWords
 //https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/solutions
 
+//sumOfNumbers
+//https://www.codewars.com/kata/55f2b110f61eb01779000053/solutions/javascript
+
 //vowelCount
 //https://www.codewars.com/kata/54ff3102c1bad923760001f3/solutions/javascript
