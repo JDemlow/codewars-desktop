@@ -16,6 +16,9 @@
 //reverseWords
 //https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/solutions
 
+//sumOfCubes
+//https://www.codewars.com/kata/59a8570b570190d313000037/solutions/javascript
+
 //sumOfNumbers
 //https://www.codewars.com/kata/55f2b110f61eb01779000053/solutions/javascript
 
