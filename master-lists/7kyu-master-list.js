@@ -1,3 +1,6 @@
+//countConsonants
+//https://www.codewars.com/kata/564e7fc20f0b53eb02000106/solutions/javascript
+
 //dnaStrand
 // https://www.codewars.com/kata/554e4a2f232cdd87d9000038/solutions/javascript
 
