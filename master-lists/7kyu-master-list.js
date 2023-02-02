@@ -22,6 +22,9 @@
 //sumOfCubes
 //https://www.codewars.com/kata/59a8570b570190d313000037/solutions/javascript
 
+//sumOfIntegers
+//https://www.codewars.com/kata/598f76a44f613e0e0b000026/solutions/javascript
+
 //sumOfNumbers
 //https://www.codewars.com/kata/55f2b110f61eb01779000053/solutions/javascript
 
