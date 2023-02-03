@@ -4,6 +4,9 @@
 //covfefe
 //https://www.codewars.com/kata/592fd8f752ee71ac7e00008a/solutions/javascript
 
+//debugSumOfDigits
+//https://www.codewars.com/kata/563d59dd8e47a5ed220000ba/solutions/javascript
+
 //dnaStrand
 // https://www.codewars.com/kata/554e4a2f232cdd87d9000038/solutions/javascript
 
