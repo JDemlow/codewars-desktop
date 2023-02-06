@@ -1,5 +1,5 @@
 function reverseLetter(str) {
-    //coding and coding..
-    
-    
-  }
+  return str.split("").reverse().join("");
+}
+
+console.log(reverseLetter("pizza"));
