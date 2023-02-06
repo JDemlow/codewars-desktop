@@ -1,5 +1,9 @@
 function reverseLetter(str) {
-  return str.split("").reverse().join("");
+  return str
+    .split("")
+    .reverse()
+    .join("")
+    .replace(/[^a-z]/gi, "");
 }
 
-console.log(reverseLetter("pizza"));
+console.log(reverseLetter("ultr53o?n"));
