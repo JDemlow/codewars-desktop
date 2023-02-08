@@ -40,5 +40,8 @@
 //sumOfNumbers
 //https://www.codewars.com/kata/55f2b110f61eb01779000053/solutions/javascript
 
+//uniqueConsonants
+//https://www.codewars.com/kata/5a19226646d843de9000007d/solutions/javascript
+
 //vowelCount
 //https://www.codewars.com/kata/54ff3102c1bad923760001f3/solutions/javascript
