@@ -25,6 +25,9 @@
 //minSum
 //https://www.codewars.com/kata/5a523566b3bfa84c2e00010b/solutions
 
+//reverseLetter
+//https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/solutions/javascript
+
 //reverseWords
 //https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/solutions
 
