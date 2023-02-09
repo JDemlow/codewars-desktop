@@ -16,6 +16,9 @@
 //exesAndOhs
 //https://www.codewars.com/kata/55908aad6620c066bc00002a/solutions
 
+//filterList
+//https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/solutions/javascript
+
 //largestElements
 //https://www.codewars.com/kata/53d32bea2f2a21f666000256/solutions/javascript
 
