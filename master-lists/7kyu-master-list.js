@@ -46,6 +46,9 @@
 //sumOfNumbers
 //https://www.codewars.com/kata/55f2b110f61eb01779000053/solutions/javascript
 
+//trimFunction
+//https://www.codewars.com/kata/563fb342f47611dae800003c/solutions/javascript
+
 //uniqueConsonants
 //https://www.codewars.com/kata/5a19226646d843de9000007d/solutions/javascript
 
