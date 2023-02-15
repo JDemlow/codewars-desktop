@@ -19,6 +19,9 @@
 //filterList
 //https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/solutions/javascript
 
+//findShortestWord
+//https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/solutions/javascript
+
 //largestElements
 //https://www.codewars.com/kata/53d32bea2f2a21f666000256/solutions/javascript
 
