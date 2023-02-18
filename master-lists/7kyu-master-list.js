@@ -1,3 +1,6 @@
+// addBinary
+// https://www.codewars.com/kata/551f37452ff852b7bd000139/solutions/javascript
+
 //countConsonants
 //https://www.codewars.com/kata/564e7fc20f0b53eb02000106/solutions/javascript
 
@@ -9,6 +12,9 @@
 
 //dnaStrand
 // https://www.codewars.com/kata/554e4a2f232cdd87d9000038/solutions/javascript
+
+//endsWith
+//https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/solutions/javascript
 
 //stringObject4
 //https://www.codewars.com/kata/5728203b7fc662a4c4000ef3/solutions/javascript

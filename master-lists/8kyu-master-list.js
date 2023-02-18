@@ -1,6 +1,3 @@
-// addBinary
-// https://www.codewars.com/kata/551f37452ff852b7bd000139/solutions/javascript
-
 //alternatingCase
 //https://www.codewars.com/kata/56efc695740d30f963000557/solutions
 
