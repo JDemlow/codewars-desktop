@@ -6,6 +6,6 @@
 
 function friend(friends) {}
 
-console.log(123);
+console.log();
 
 //https://www.codewars.com/kata/55b42574ff091733d900002f/solutions/javascript
