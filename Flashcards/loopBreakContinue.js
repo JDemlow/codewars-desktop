@@ -11,7 +11,7 @@ console.log(
     "Hello Kitty",
     "Hello Kitty",
     "Hello Kitty",
-    "Snow white",
+    "Snow White",
   ])
 );
 
