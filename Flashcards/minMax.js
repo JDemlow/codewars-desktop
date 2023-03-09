@@ -1,4 +1,4 @@
-let min = function (list) {};
+let minimum = function (list) {};
 
 console.log(min([5, 9, 2, 5, 1, 3, 4]));
 console.log(max([5, 9, 2, 5, 1, 13, 3, 4]));
