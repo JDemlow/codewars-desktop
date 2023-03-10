@@ -6,16 +6,9 @@
 //   }
 // }
 
-let simpleMultiplication = (number) => (number % 2 ? number * 9 : number * 8);
+let simpleMultiplication = (number) =>
+  number % 2 === 0 ? number * 8 : number * 9;
 
 console.log(simpleMultiplication(9));
 
-//www.codewars.com/kata/583710ccaa6717322c000105/solutions/javascript
-
-let nums = [1, 2, 3, 4, 5, 6, 8, 9, 10];
-
-let onlyEvens = nums.filter((n) => n % 2 === 0);
-
-console.log(onlyEvens);
-
-console.log(nums);
+//https://www.codewars.com/kata/583710ccaa6717322c000105/solutions/javascript

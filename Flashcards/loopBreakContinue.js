@@ -1,7 +1,5 @@
 function grabDoll(dolls) {
   let bag = [];
-
-  return bag;
 }
 
 console.log(
