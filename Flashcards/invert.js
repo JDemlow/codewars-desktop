@@ -1,4 +1,10 @@
-function invert(array) {}
+function invert(array) {
+  let inverted = [];
+  for (i = 0; i < array.length; i++) {
+    inverted.push(-array[i]);
+  }
+  return inverted;
+}
 
 console.log(invert([1, -2, 3, -4, 5]));
 
