@@ -9,3 +9,5 @@ function friend(friends) {}
 console.log(friend(["Ryan", "Kieran", "Jason", "Yous"]));
 
 //https://www.codewars.com/kata/55b42574ff091733d900002f/solutions/javascript
+
+console.log(123);
