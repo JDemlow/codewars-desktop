@@ -4,6 +4,7 @@ function colorOf(r, g, b) {
   b = parseInt(b).toString(16).padStart(2, "0");
   return "#" + r + g + b;
 }
+
 console.log(colorOf(1, 2, 3));
 
 console.log(colorOf(0, 111, 0));
