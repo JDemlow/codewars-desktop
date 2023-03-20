@@ -1,11 +1,13 @@
 String.prototype.toAlternatingCase = function () {
-  let str = "";
-  if (this.toLowerCase() === this) {
-    return "The string is lowercase";
-  } else {
-    return "The string is not lowercase";
+  new_str = "";
+  for (var i = 0; i < this.length; i++) {
+    if (this[i] === this[i].toUpperCase()) {
+      new_str += this[i].toLowerCase();
+    } else {
+      new_str += this[i].toUpperCase();
+    }
   }
-  return str;
+  return new_str;
 };
 
 console.log("hello world".toAlternatingCase);
