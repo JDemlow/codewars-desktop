@@ -14,8 +14,8 @@ let obj = {
 
 function animal(obj) {}
 
-console.log();
+console.log(animal(obj));
 
-console.log(321);
+console.log(123);
 
 //https://www.codewars.com/kata/571f1eb77e8954a812000837/solutions/javascript
