@@ -1,13 +1,24 @@
+// function pickIt(arr) {
+//   let odd = [],
+//     even = [];
+//   for (let i = 0; i < arr.length; i++)
+//     if (arr[i] % 2 === 0) {
+//       even.push(arr[i]);
+//     } else {
+//       odd.push(arr[i]);
+//     }
+
+//   return [odd, even];
+// }
+
+// Refactor:
+
 function pickIt(arr) {
   let odd = [],
     even = [];
-  for (let i = 0; i < arr.length; i++)
-    if (arr[i] % 2 === 0) {
-      even.push(arr[i]);
-    } else {
-      odd.push(arr[i]);
-    }
-
+  arr.forEach((num) => {
+    num % 2 === 0 ? even.push(num) : odd.push(num);
+  });
   return [odd, even];
 }
 

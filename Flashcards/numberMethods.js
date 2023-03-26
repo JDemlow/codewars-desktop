@@ -1,9 +1,4 @@
-function colorOf(r, g, b) {
-  r = parseInt(r).toString(16).padStart(2, "0");
-  g = parseInt(g).toString(16).padStart(2, "0");
-  b = parseInt(b).toString(16).padStart(2, "0");
-  return "#" + r + g + b;
-}
+function colorOf(r, g, b) {}
 
 console.log(colorOf(0, 111, 0));
 

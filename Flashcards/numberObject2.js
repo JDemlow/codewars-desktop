@@ -8,13 +8,7 @@
 
 // howManySmaller([1.234,1.235,1.228],1.24), 2)
 
-function howManySmaller(arr, n) {
-  let total = 0;
-  for (i = 0; i < arr.length; i++) {
-    if (arr[i].toFixed(2) < n) total++;
-  }
-  return total;
-}
+function howManySmaller(arr, n) {}
 
 console.log(howManySmaller([1.234, 1.235, 1.228], 1.24));
 
