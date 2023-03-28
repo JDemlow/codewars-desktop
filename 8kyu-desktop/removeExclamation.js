@@ -2,6 +2,11 @@ function remove(string) {
   const newString = string.replace(/!$/, "");
   return newString;
 }
+//Non regex solution
+
+// function remove(string) {
+//   return string.endsWith("!") ? string.slice(0, -1) : string;
+// }
 
 console.log(remove("Hi! Hi!"));
 
