@@ -12,6 +12,6 @@ function howManySmaller(arr, n) {}
 
 console.log(howManySmaller([1.234, 1.235, 1.228], 1.24));
 
-console.log(123);
+console.log(321);
 
 //https://www.codewars.com/kata/57256064856584bc47000611/solutions/javascript
