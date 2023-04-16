@@ -13,6 +13,6 @@
 
 var number = function (array) {};
 
-console.log(number(["a", "b"]));
+console.log(number(["a", "b", "c"]));
 
 // https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/solutions
