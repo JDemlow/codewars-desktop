@@ -11,8 +11,12 @@
 // [] --> []
 // ["a", "b", "c"] --> ["1: a", "2: b", "3: c"]
 
-var number = function (array) {};
+var number = function (array) {
+  return array.map((el, idx) => {
+    return idx + 1 + ": " + el;
+  });
+};
 
-console.log(number(["a", "b", "c", "d"]));
+console.log(number(["a", "b", "c", "d", "e"]));
 
 // https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/solutions
