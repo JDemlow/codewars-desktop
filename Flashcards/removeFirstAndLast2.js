@@ -13,12 +13,7 @@
 // "1"    =>  NULL
 // "1,2"  =>  NULL
 
-function array(string) {
-  string = string.split(",");
-  string.pop();
-  string.shift();
-  return string.join(" ") === "" ? null : array.join(" ");
-}
+function array(string) {}
 
 console.log(array("1,2,3,4"));
 

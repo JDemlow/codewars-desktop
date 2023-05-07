@@ -16,6 +16,4 @@ function animal(obj) {}
 
 console.log();
 
-console.log(123);
-
 //https://www.codewars.com/kata/571f1eb77e8954a812000837/solutions/javascript
