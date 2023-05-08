@@ -17,4 +17,6 @@ function array(string) {}
 
 console.log(array("1,2,3,4"));
 
+//
+
 //https://www.codewars.com/kata/570597e258b58f6edc00230d/solutions

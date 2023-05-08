@@ -17,7 +17,9 @@ function array(string) {
   string = string.split(",");
   string.pop();
   string.shift();
-  return string.join(" ") === "" ? null : array.join(" ");
+  return string.join(" ") === "" ? null : string.join(" ");
 }
 
 console.log(array("1,2,3,4"));
+
+//https://www.codewars.com/kata/570597e258b58f6edc00230d/train/javascript
