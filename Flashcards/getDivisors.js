@@ -11,6 +11,6 @@
 // Note you should only return a number, the count of divisors. The numbers between parentheses are shown only for you to see which numbers are counted in each case.
 
 function getDivisorsCnt(num) {}
-console.log(getDivisorsCnt(4));
+console.log(getDivisorsCnt(5));
 
 // https://www.codewars.com/kata/542c0f198e077084c0000c2e/solutions/javascript
