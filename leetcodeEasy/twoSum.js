@@ -27,12 +27,11 @@
 //     -109 <= target <= 109
 //     Only one valid answer exists.
 
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
- */
-var twoSum = function (nums, target) {};
+// /**
+//  * @param {number[]} nums
+//  * @param {number} target
+//  * @return {number[]}
+//  */
 
 let twoSum = function (nums, target) {
   let map = new Map();
