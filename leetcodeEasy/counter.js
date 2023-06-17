@@ -24,10 +24,10 @@
 //     -1000 <= n <= 1000
 //     At most 1000 calls to counter() will be made
 
-/**
- * @param {number} n
- * @return {Function} counter
- */
+// /**
+//  * @param {number} n
+//  * @return {Function} counter
+//  */
 let createCounter = function (n) {
   let count = n;
   return function () {
