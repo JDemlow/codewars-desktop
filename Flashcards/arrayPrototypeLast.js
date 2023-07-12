@@ -17,8 +17,6 @@
 //     0 <= arr.length <= 1000
 //     0 <= arr[i] <= 1000
 
-const arr = [1, 2, 3];
-
 Array.prototype.last = function () {};
 
 console.log(arr.last());
