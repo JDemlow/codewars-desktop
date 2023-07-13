@@ -1,7 +1,9 @@
-function simpleMultiplication(number) {}
+//This kata is about multiplying a given number by eight if it is an even number and by nine otherwise.
 
-console.log(simpleMultiplication(9));
+function simpleMultiplication(number) {
+  return number % 2 === 0 ? number * 8 : number * 9;
+}
 
-console.log(123);
+console.log(simpleMultiplication(2));
 
 //https://www.codewars.com/kata/583710ccaa6717322c000105/solutions/javascript
