@@ -28,3 +28,5 @@
 // IP_ADDRESS_REQUIRED - no ip address was supplied
 
 function greet(language) {}
+
+//https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/javascript
