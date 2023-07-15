@@ -27,6 +27,8 @@
 // IP_ADDRESS_NOT_FOUND - ip address not in the database
 // IP_ADDRESS_REQUIRED - no ip address was supplied
 
-function greet(language) {}
+function greet(language) {
+  console.log(language);
+}
 
 //https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/javascript
