@@ -31,4 +31,6 @@ function greet(language) {
   console.log(language);
 }
 
+greet("english");
+
 //https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/javascript
