@@ -4,13 +4,7 @@
 // assert.deepEqual(powersOfTwo(1), [1, 2])
 // assert.deepEqual(powersOfTwo(4), [1, 2, 4, 8, 16])
 
-function powersOfTwo(num) {
-  for (i = 0; i <= num; i++) {
-    if (i ** 2 % 2 === 0) {
-      console.log(i);
-    }
-  }
-}
+function powersOfTwo(num) {}
 
 console.log(powersOfTwo(4));
 
