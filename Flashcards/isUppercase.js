@@ -9,10 +9,8 @@
 // "ACSKLDFJSgSKLDFJSKLDFJ" -> False
 // "ACSKLDFJSGSKLDFJSKLDFJ" -> True
 
-String.prototype.isUpperCase = function () {
-  return this.toUpperCase() ? false : true;
-};
+String.prototype.isUpperCase = function () {};
 
-console.log("I AM DONALD".isUpperCase());
+console.log();
 
 //https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/solutions
