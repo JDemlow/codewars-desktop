@@ -32,6 +32,8 @@ let createCounter = function (n) {
   return function () {};
 };
 
+console.log(createCounter(10));
+
 /**
  * const counter = createCounter(10)
  * counter() // 10

@@ -10,6 +10,6 @@
 
 function abbrevName(name) {}
 
-console.log(abbrevName("sam harris"));
+console.log(abbrevName("patrick feeney"));
 
 //https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
