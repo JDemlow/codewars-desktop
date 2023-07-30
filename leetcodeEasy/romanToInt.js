@@ -47,7 +47,42 @@
  * @param {string} s
  * @return {number}
  */
-let romanToInt = function (str) {};
+let romanToInt = function (str) {
+  const romanHash = {
+    I: 1,
+    V: 5,
+    X: 10,
+    L: 50,
+    C: 100,
+    D: 500,
+    M: 1000,
+  };
+  let acc = 0;
+  for (i = 0; i < str.length; i++) {
+    if (str[i] === "I" && str[i + 1] === "V") {
+      acc += 4;
+      i++;
+    } else if (str[i] === "I" && str[i + 1] === "X") {
+      acc += 9;
+      i++;
+    } else if (str[i] === "X" && str[i + 1] === "L") {
+      acc += 40;
+      i++;
+    } else if (str[i] === "X" && str[i + 1] === "C") {
+      acc += 90;
+      i++;
+    } else if (str[i] === "C" && str[i + 1] === "D") {
+      acc += 400;
+      i++;
+    } else if (str[i] === "C" && str[i + 1] === "M") {
+      acc += 900;
+      i++;
+    } else {
+      acc += romanHash[str[i]];
+    }
+  }
+  return acc;
+};
 
 console.log(romanToInt("VIII"));
 
