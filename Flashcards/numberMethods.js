@@ -12,7 +12,12 @@
 // colorOf(0,111,0) should return "#006f00"
 // colorOf(1, 2 ,3) should return "#010203"
 
-function colorOf(r, g, b) {}
+function colorOf(r, g, b) {
+  r = r.toString(16).padStart(2, "0");
+  g = g.toString(16).padStart(2, "0");
+  b = b.toString(16).padStart(2, "0");
+  return `#${r}${g}${b}`;
+}
 
 console.log(colorOf(0, 111, 0));
 

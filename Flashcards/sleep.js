@@ -25,9 +25,7 @@
  */
 async function sleep(millis) {}
 
-/**
- * let t = Date.now()
- * sleep(100).then(() => console.log(Date.now() - t)) // 100
- */
+// let t = Date.now();
+// sleep(100).then(() => console.log(Date.now() - t)); // 100
 
 //https://leetcode.com/problems/sleep/submissions/946376900/
