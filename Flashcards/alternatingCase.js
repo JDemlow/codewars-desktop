@@ -9,13 +9,7 @@
 // "String.prototype.toAlternatingCase".toAlternatingCase() === "sTRING.PROTOTYPE.TOaLTERNATINGcASE"
 // As usual, your function/method should be pure, i.e. it should not mutate the original string.
 
-String.prototype.toAlternatingCase = function () {
-  return this.split("")
-    .map((el) =>
-      el === el.toUpperCase() ? el.toLowerCase() : el.toUpperCase()
-    )
-    .join("");
-};
+String.prototype.toAlternatingCase = function () {};
 
 console.log("hello WORLd".toAlternatingCase());
 
