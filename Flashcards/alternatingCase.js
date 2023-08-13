@@ -11,6 +11,6 @@
 
 String.prototype.toAlternatingCase = function () {};
 
-console.log("hello WORLd".toAlternatingCase());
+console.log("hello WORLD".toAlternatingCase());
 
 //https://www.codewars.com/kata/56efc695740d30f963000557/solutions
