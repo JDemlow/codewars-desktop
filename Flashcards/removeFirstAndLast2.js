@@ -13,9 +13,7 @@
 // "1"    =>  NULL
 // "1,2"  =>  NULL
 
-function array(string) {
-  return string.split(",").slice(1, -1).join(" ") || null;
-}
+function array(string) {}
 
 console.log(array("1,2,3,4"));
 
