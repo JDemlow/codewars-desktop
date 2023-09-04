@@ -5,13 +5,8 @@
 
 // Assume that beast and dish are always lowercase strings, and that each has at least two letters. beast and dish may contain hyphens and spaces, but these will not appear at the beginning or end of the string. They will not contain numerals.
 
-function feast(beast, dish) {
-  return beast[0] === dish[0] &&
-    beast[beast.length - 1] === dish[dish.length - 1]
-    ? true
-    : false;
-}
+function feast(beast, dish) {}
 
-console.log(feast("care beat", "car star"));
+console.log(feast("care bear", "car star"));
 
 //https://www.codewars.com/kata/5aa736a455f906981800360d/solutions/javascript
