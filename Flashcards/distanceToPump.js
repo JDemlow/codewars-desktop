@@ -5,10 +5,8 @@
 
 // Function should return true if it is possible and false if not.
 
-const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
-  return mpg * fuelLeft === distanceToPump ? true : false;
-};
+const zeroFuel = (distanceToPump, mpg, fuelLeft) => {};
 
-console.log(zeroFuel(50, 25, 1));
+console.log(zeroFuel());
 
 //https://www.codewars.com/kata/5861d28f124b35723e00005e/solutions/javascript
