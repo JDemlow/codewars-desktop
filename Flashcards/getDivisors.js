@@ -12,13 +12,14 @@
 
 function getDivisorsCnt(num) {
   let count = 0;
-  for (let i = 1; i <= num; i++) {
+  for (i = 0; i <= num; i++) {
     if (num % i === 0) {
       count++;
     }
   }
   return count;
 }
+
 console.log(getDivisorsCnt(5));
 
 // https://www.codewars.com/kata/542c0f198e077084c0000c2e/solutions/javascript
