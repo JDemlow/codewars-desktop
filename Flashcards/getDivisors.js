@@ -10,15 +10,7 @@
 
 // Note you should only return a number, the count of divisors. The numbers between parentheses are shown only for you to see which numbers are counted in each case.
 
-function getDivisorsCnt(num) {
-  let count = 0;
-  for (i = 0; i <= num; i++) {
-    if (num % i === 0) {
-      count++;
-    }
-  }
-  return count;
-}
+function getDivisorsCnt(num) {}
 
 console.log(getDivisorsCnt(5));
 
