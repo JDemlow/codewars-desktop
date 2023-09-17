@@ -15,9 +15,7 @@
 // assert.strictEqual(number([[3,0],[9,1],[4,8],[12,2],[6,1],[7,8]]),21);
 // assert.strictEqual(number([[0,0]]),0);
 
-const number = function (busStops) {
-  return busStops.reduce((n, [on, off]) => n + on - off, 0);
-};
+const number = function (busStops) {};
 
 console.log(
   number([
