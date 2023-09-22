@@ -12,8 +12,10 @@ let obj = {
   color: "white",
 };
 
-function animal(obj) {}
+function animal(obj) {
+  return `This ${obj.color} ${obj.name} has ${obj.legs} legs.`;
+}
 
-console.log();
+console.log(animal(obj));
 
 //https://www.codewars.com/kata/571f1eb77e8954a812000837/solutions/javascript
