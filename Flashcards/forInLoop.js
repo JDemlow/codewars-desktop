@@ -7,14 +7,7 @@
 
 // You should use for..in in your code, otherwise your solution may not pass this kata.
 
-function giveMeFive(obj) {
-  let arrOfFives = [];
-  for (let key in obj) {
-    if (obj[key].length == 5) arrOfFives.push(obj[key]);
-    if (key.length == 5) arrOfFives.push(key);
-  }
-  return arrOfFives;
-}
+function giveMeFive(obj) {}
 
 console.log(giveMeFive({ Outer: "earth", is: "a", beautiful: "world" }));
 
