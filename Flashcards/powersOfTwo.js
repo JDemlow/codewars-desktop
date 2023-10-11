@@ -5,11 +5,11 @@
 // assert.deepEqual(powersOfTwo(4), [1, 2, 4, 8, 16])
 
 function powersOfTwo(num) {
-  let pows = [];
+  let arr = [];
   for (i = 0; i <= num; i++) {
-    pows.push(2 ** i);
+    arr.push(Math.pow(2, i));
   }
-  return pows;
+  return arr;
 }
 
 console.log(powersOfTwo(4));
