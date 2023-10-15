@@ -1,12 +1,4 @@
-function findMultiples(integer, limit) {
-  let multiples = [];
-  for (i = 1; i <= limit; i++) {
-    if (i % integer === 0) {
-      multiples.push(i);
-    }
-  }
-  return multiples;
-}
+function findMultiples(integer, limit) {}
 
 console.log(findMultiples(2, 6));
 

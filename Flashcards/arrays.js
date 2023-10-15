@@ -27,9 +27,7 @@ let arr = [false, 2, 3, 4, 5, "Max"];
 function getLength(arr) {}
 function getFirst(arr) {}
 function getLast(arr) {}
-function pushElement(arr) {
-  return arr;
-}
+function pushElement(arr) {}
 function popElement(arr) {}
 
 console.log(getLength(arr));
