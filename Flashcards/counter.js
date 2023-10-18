@@ -29,12 +29,7 @@
  * @return {Function} counter
  */
 let createCounter = function (n) {
-  let count = n;
-  return function () {
-    let result = count;
-    count++;
-    return result;
-  };
+  return function () {};
 };
 
 // const counter = createCounter(10);
